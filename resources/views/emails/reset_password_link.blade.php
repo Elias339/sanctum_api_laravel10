@@ -1,5 +1,4 @@
 
-
 <x-mail::message>
 # Reset Password
 <x-mail::button :url="$url">
